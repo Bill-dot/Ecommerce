@@ -27,7 +27,7 @@ const styles = {
     fontSize: 18,
     lineHeight: 23,
     flex: 2,
-    fontFamily:'Montserrat-Black',
+    fontFamily:'Montserrat-Bold',
   },
   labelStyle: {
     fontSize: 18,

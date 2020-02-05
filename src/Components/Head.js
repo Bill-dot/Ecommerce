@@ -30,7 +30,7 @@ const styles = {
   textStyle: {
     fontSize: 30,
     fontFamily:'Montserrat-Bold',
-    color:'#000'
+    color:'#000000'
   }
 };
 

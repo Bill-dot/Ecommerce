@@ -16,7 +16,7 @@ const styles=StyleSheet.create({
         flexDirection:'row',
         justifyContent:'flex-start',
         borderWidth:2,
-        borderColor:'#a4cceb',
+        borderColor:'#ff3c00',
         position: 'relative',
         marginTop:18,
         borderRadius:5,
